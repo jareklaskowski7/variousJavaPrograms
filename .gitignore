@@ -1,0 +1,5 @@
+.idea
+*.iml
+production
+data.txt
+input.txt
